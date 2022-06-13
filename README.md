@@ -8,3 +8,6 @@ Press S to save a quote to `Saved.TXT`.
 Press E to exit the program.                                                                                            
 Press Escape to clear the console.                                                                                      
 Press H to display the help message.
+
+## Disclaimer
+This program has a lot of inside jokes among my friends and most definitely will say some inappropriate things.
